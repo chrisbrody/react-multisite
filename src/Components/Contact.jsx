@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
 
-function Index() {
+function Contact() {
   return (
     <div className="site-wrapper">
       <div className="site-wrapper-inner">
@@ -13,7 +13,7 @@ function Index() {
           </div>
 
           <div className="inner cover">
-            <h1 className="cover-heading">Home Page.</h1>
+            <h1 className="cover-heading">Contact Page.</h1>
             <p className="lead">
               Cover is a one-page template for building simple and beautiful
               home pages. Download, edit the text, and add your own fullscreen
@@ -41,4 +41,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default Contact;

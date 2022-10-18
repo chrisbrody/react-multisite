@@ -1,11 +1,12 @@
-import logo from './logo.svg';
+import Index from "./Components/Index"
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      My App
-    </div>
+    <>
+      <Index />
+    </>
   );
 }
 
